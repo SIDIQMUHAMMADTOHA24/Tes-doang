@@ -1,4 +1,1 @@
-skuyy ajay mabar
-
-
-saya akan menjadi kaya dari progammer dan crypto
+Sekarang tahun 2022
