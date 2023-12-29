@@ -4,8 +4,8 @@ class Account {
   }
 
   void deleteAccount(){
-    //delete
+    String delete = 'yes';
   }
 
-  
+
 }
