@@ -7,5 +7,5 @@ class Account {
     String delete = 'yes';
   }
 
-
+  void update(){}
 }
